@@ -78,7 +78,7 @@ h1{
     letter-spacing: 7.04px;
     width: 550px;
     padding-left: 50px;
-    padding-top: 20px;
+    padding-top: 120px;
 }
 p{
     color: rgba(255, 255, 255, 0.80);
@@ -95,42 +95,88 @@ button{
     padding: 5px;
     width: 100px;
 }
-img{
-    width: 250px;
-    height: 320px;
-    margin-left: 100px;
-}
-.date{
-    padding-top: 50px;
+.shoot{
+    background-image: url('B9A1-New-Year-New-Mission/resources/Screenshot-1.png');
     width: 1320px;
-    height: 482px;
-    flex-shrink: 0;
+    height: 520px;
     margin: auto;
+    margin-top: 70px;
+    border-radius: 10px;
 }
-/* span{
-    color: red;
-} */
-.date-2 p{
+.shoot-2 p {
     color: #070211;
     font-family: Inter;
     font-size: 32px;
     font-style: normal;
     font-weight: 600;
-    line-height: 56px;
+    line-height: 30px;
     text-transform: capitalize;
+    /* margin: auto; */
+    /* margin-top: 50px; */
+    width: 550px;
+}
+.shoot-2{
+    width: 550px;
+    margin: auto;
+    padding-top: 30px;
 }
 span{
+    color: red;
+}
+
+.shoot button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 15px;
+}
+
+.row{
+    border: 2px solid red;
+    display: table;
+    width: 1320px;
+    table-layout: fixed;
+    border-spacing: 10px;
+    margin: auto;
+}
+.colum{
+    /* border: 2px solid red; */
+    display: table-cell;
+    /* background-color: red; */
+}
+
+img {
+    width: 200px;
+    margin-left: 100px;
+    border: 15px solid red;
+    border-radius: 50%;
+    padding: 20px;
+}
+.colum h5 {
     color: #F00;
     text-align: center;
     font-family: Inter;
-    font-size: 32px;
+    font-size: 24px;
     font-style: normal;
-    font-weight: 600;
-    line-height: 56px; /* 175% */
-    text-transform: capitalize;
+    font-weight: 500;
+    line-height: normal;
 }
-.date-2{
-    width: 50px;
-    height: 50px;
-    margin: auto;
+.colum h1 {
+    color: #F00;
+
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 300px;
+padding-top: 30px;
+}
+.colum p{
+    color: black;
+    display: inline;
+    font-style: normal;
+}
+.colum-1{
+    margin-top: 50px;
 }
