@@ -1,107 +1,120 @@
-header{
-  background-image: url('B9A1-New-Year-New-Mission/resources/Banner\ Image.png');
-  width: 1320px;
-  height: 600px;
-  flex-shrink: 0;
-  border-radius: 16px;
-  margin: auto;
+header {
+    background-image: url("B9A1-New-Year-New-Mission/resources/Banner\ Image.png");
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    margin: auto;
 }
+
 h4 {
-  color: #fff;
-  text-align: center;
-  font-family: Merriweather;
-  font-size: 32px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  padding-top: 100px;
+    color: #fff;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 100px;
 }
+
 h1 {
-  color: #fff;
-  text-align: center;
-  font-family: Merriweather;
-  font-size: 72px;
-  font-style: normal;
-  font-weight: 900;
-  line-height: 95px;
+    color: #fff;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
 }
+
 .content-1 {
-  color: #f00;
-  text-align: center;
-  font-family: Inter;
-  font-size: 88px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: 50px;
+    color: #f00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 50px;
 }
+
 .content-2 {
-  color: #f00;
-  text-align: center;
-  font-family: Inter;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: normal;
+    color: #f00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 }
+
 .content-3 {
-  color: #070211;
-  text-align: center;
-  font-family: Inter;
-  font-size: 48px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
 }
+
 .new-year-photo {
-  width: 802.9px;
-  height: 500px;
-  flex-shrink: 0;
-  background-image: url("B9A1-New-Year-New-Mission/resources/New\ Year\ Photo.png");
-  margin: auto;
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    background-image: url("B9A1-New-Year-New-Mission/resources/New\ Year\ Photo.png");
+    margin: auto;
 }
+
 .vectorrr {
-  background-image: url("B9A1-New-Year-New-Mission/resources/Vectorrr.png");
-  width: 1320px;
-  height: 600px;
-  flex-shrink: 0;
-  margin: auto;
+    background-image: url("B9A1-New-Year-New-Mission/resources/Vectorrr.png");
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin: auto;
 }
+
 .vectorrr h1 {
-  color: #fff;
-  font-family: Merriweather;
-  font-size: 64px;
-  font-style: normal;
-  font-weight: 900;
-  line-height: 88px; /* 137.5% */
-  letter-spacing: 7.04px;
-  width: 550px;
-  padding-left: 50px;
-  padding-top: 120px;
+    color: #fff;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+    width: 550px;
+    padding-left: 50px;
+    padding-top: 120px;
 }
+
 .vectorrr p {
-  color: rgba(255, 255, 255, 0.8);
-  font-family: Inter;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 30px;
-  width: 500px;
-  padding-left: 50px;
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 500px;
+    padding-left: 50px;
 }
+
 button {
-  margin-left: 50px;
-  padding: 5px;
-  width: 100px;
+    margin-left: 50px;
+    padding: 5px;
+    width: 100px;
 }
+
 .shoot {
-  background-image: url("B9A1-New-Year-New-Mission/resources/Screenshot-1.png");
-  width: 1320px;
-  height: 520px;
-  margin: auto;
-  margin-top: 70px;
-  border-radius: 10px;
+    background-image: url("B9A1-New-Year-New-Mission/resources/Screenshot-1.png");
+    width: 1320px;
+    height: 520px;
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 10px;
 }
+
 .shoot-2 p {
     color: #070211;
     font-family: Inter;
@@ -110,15 +123,17 @@ button {
     font-weight: 600;
     line-height: 30px;
     text-transform: capitalize;
-  /* margin: auto; */
-  /* margin-top: 50px; */
+    /* margin: auto; */
+    /* margin-top: 50px; */
     width: 550px;
 }
+
 .shoot-2 {
     width: 550px;
     margin: auto;
     padding-top: 30px;
 }
+
 span {
     color: red;
 }
@@ -139,15 +154,17 @@ span {
     border-spacing: 10px;
     margin: auto;
 }
+
 .colum {
-  /* border: 2px solid red; */
+    /* border: 2px solid red; */
     display: table-cell;
-  /* background-color: red; */
+    /* background-color: red; */
 }
 
 .colum-1 {
     padding-top: 60px;
 }
+
 .colum-1 p {
     color: rgba(7, 2, 17, 0.6);
     font-family: Inter;
@@ -182,6 +199,7 @@ span {
 .colum-2 {
     padding-bottom: 70px;
 }
+
 .colum-2 img {
     border: 15px solid red;
     border-radius: 50%;
@@ -194,13 +212,15 @@ span {
 .colum-3 {
     padding-top: 60px;
 }
+
 .colum-3 img {
     width: 200px;
     margin-left: 100px;
-  /* border: 15px solid red; */
+    /* border: 15px solid red; */
     border-radius: 50%;
     padding: 20px;
 }
+
 .colum-3 h1 {
     color: #f00;
 
@@ -220,6 +240,7 @@ span {
     font-weight: 400;
     line-height: 32px;
 }
+
 /* .colum h5 {
     color: #F00;
     text-align: center;
@@ -265,35 +286,43 @@ padding-top: 30px;
     padding-bottom: 100px;
     width: 440px;
 }
+
 .colum-1 h2 {
     padding-left: 50px;
 }
+
 .colum-2 {
     padding-top: 100px;
     width: 440px;
 }
+
 .colum-3 {
     box-sizing: border-box;
     width: 440px;
 }
+
 .colum-3 h1 {
     color: #f00;
 }
+
 p {
     color: #070211;
     padding-left: 15px;
 }
+
 .container-2 {
     width: 1320px;
     padding-top: 20px;
     margin: auto;
 }
+
 .mid h1 {
     color: black;
     display: inline;
     width: fit-content;
     padding-left: 380px;
 }
+
 .mid h3 {
     color: #070211;
     font-family: Inter;
@@ -304,6 +333,7 @@ p {
     width: fit-content;
     margin: auto;
 }
+
 .mid p {
     width: 600px;
     margin: auto;
@@ -314,23 +344,28 @@ p {
     font-weight: 400;
     line-height: 32px;
 }
+
 .mid {
     margin-top: 20px;
 }
+
 .under-box {
     display: flex;
     justify-content: space-evenly;
     width: 1320px;
 }
-.gift{
+
+.gift {
     position: absolute;
     padding-right: 600px;
 }
-.hasi{
+
+.hasi {
     position: relative;
     padding-right: 320px;
 }
-.fifty{
+
+.fifty {
     position: relative;
     margin-left: 900px;
 }
@@ -338,8 +373,8 @@ p {
 /* .hasi{
     /* display: flex;
     background-image: url('B9A1-New-Year-New-Mission/resources/Rectangle\ 1.png'); */
-/* } */ */
-
+/* } */
+*/
 /* .writing-hed-1 h3 {
     color: #f00;
 
@@ -358,7 +393,8 @@ p {
     height: fit-content;
     /* flex-direction: column; */
 }
-.writing-hed{
+
+.writing-hed {
     margin: 10px;
     /* border: 2px solid red; */
     padding: 15px;
@@ -366,6 +402,7 @@ p {
     margin: auto;
     margin-top: 20px;
 }
+
 .writing-hed h1 {
     color: #070211;
     font-family: Merriweather;
@@ -376,16 +413,18 @@ p {
     text-transform: capitalize;
     display: inline;
 }
+
 .writing-hed h3 {
-    color: #F00;
+    color: #f00;
     font-family: Inter;
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
 }
+
 .writing-hed p {
-    color: rgba(7, 2, 17, 0.60);
+    color: rgba(7, 2, 17, 0.6);
     font-family: Inter;
     font-size: 20px;
     font-style: normal;
@@ -394,8 +433,7 @@ p {
     width: 800px;
 }
 
-
-.allphoto{
+.allphoto {
     display: flex;
     /* border: 3px solid red; */
     width: 1320px;
@@ -407,7 +445,7 @@ p {
     transition: all ease 0.2s;
 }
 
-.photo{
+.photo {
     width: 400px;
     height: 430px;
     flex-shrink: 0;
@@ -422,29 +460,35 @@ p {
 }
 
 .photo:hover {
-    transform: translateY(-5px) ;
+    transform: translateY(-5px);
     box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
 }
-#photo1{
-    background-image: url('B9A1-New-Year-New-Mission/resources/Rectangle\ 3.png');
-}
-#photo2{
-    background-image: url('B9A1-New-Year-New-Mission/resources/Rectangle\ 4.png');
-}
-#photo3{
-    background-image: url('B9A1-New-Year-New-Mission/resources/Rectangle\ 5.png');
-}
-#photo4{
-    background-image: url('B9A1-New-Year-New-Mission/resources/Rectangle\ 6.png');
-}
-#photo5{
-    background-image: url('B9A1-New-Year-New-Mission/resources/Rectangle\ 7.png');
-}
-#photo6{
-    background-image: url('B9A1-New-Year-New-Mission/resources/Rectangle\ 8.png');
+
+#photo1 {
+    background-image: url("B9A1-New-Year-New-Mission/resources/Rectangle\ 3.png");
 }
 
-.last{
+#photo2 {
+    background-image: url("B9A1-New-Year-New-Mission/resources/Rectangle\ 4.png");
+}
+
+#photo3 {
+    background-image: url("B9A1-New-Year-New-Mission/resources/Rectangle\ 5.png");
+}
+
+#photo4 {
+    background-image: url("B9A1-New-Year-New-Mission/resources/Rectangle\ 6.png");
+}
+
+#photo5 {
+    background-image: url("B9A1-New-Year-New-Mission/resources/Rectangle\ 7.png");
+}
+
+#photo6 {
+    background-image: url("B9A1-New-Year-New-Mission/resources/Rectangle\ 8.png");
+}
+
+.last {
     width: 1320px;
     height: 616px;
     flex-shrink: 0;
@@ -453,13 +497,16 @@ p {
     margin-top: 40px;
     background: rgba(255, 0, 0, 0.05);
 }
-.logo{
+
+.logo {
     width: 450px;
     margin: auto;
 }
+
 .logo img {
     padding-left: 150px;
 }
+
 .logo h2 {
     color: #070211;
 
@@ -471,8 +518,9 @@ p {
     line-height: normal;
     text-transform: capitalize;
 }
+
 .logo p {
-    color: rgba(7, 2, 17, 0.60);
+    color: rgba(7, 2, 17, 0.6);
     text-align: center;
     font-family: Inter;
     font-size: 20px;
@@ -480,12 +528,14 @@ p {
     font-weight: 400;
     line-height: 32px;
 }
-.button2{
-    width:fit-content;
+
+.button2 {
+    width: fit-content;
     margin: auto;
     display: flex;
 }
-#text{
+
+#text {
     width: 380px;
     height: 50px;
     margin: auto;
@@ -496,11 +546,12 @@ p {
     display: flex;
     font-size: 2vb;
 }
+
 #button {
     width: 210px;
     height: 72px;
     border-radius: 0px 50px 50px 0px;
-    background-color: #F00;
+    background-color: #f00;
     border: none;
     font-size: larger;
     color: aliceblue;
@@ -508,26 +559,28 @@ p {
     padding-right: 50px;
     font-size: 2vb;
 }
+
 .contact-us {
     background: #070211;
     width: 1320px;
     margin: auto;
 }
+
 .grup-icon {
     align-content: space-evenly;
     width: 500px;
     margin: auto;
-
 }
-.icon{
+
+.icon {
     width: 100px;
     margin: auto;
     display: inline;
     padding: 20px;
-
 }
-.information h3{
-    color: #FFF;
+
+.information h3 {
+    color: #fff;
     font-family: Inter;
     font-size: 24px;
     font-style: normal;
@@ -535,20 +588,23 @@ p {
     line-height: 40px;
     width: 300px;
 }
+
 .information p {
-    color: #FFF;
+    color: #fff;
     font-family: Inter;
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
     line-height: 40px;
 }
+
 .information {
     display: flex;
     justify-content: space-evenly;
 }
-.leave h4{
-    color: #FFF;
+
+.leave h4 {
+    color: #fff;
     font-family: Inter;
     font-size: 24px;
     font-style: normal;
@@ -556,17 +612,20 @@ p {
     line-height: 40px;
     width: 300px;
 }
+
 .leave {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
-#Unsubscribe{
+
+#Unsubscribe {
     width: 200px;
     height: 50px;
     border: none;
     border-radius: 10px;
 }
-footer{
+
+footer {
     margin-top: 25px;
 }
